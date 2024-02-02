@@ -1,9 +1,8 @@
 package com.example.syntax_terror;
-public abstract class Shape {
 
+public abstract class Shape {
     private int x;
     private int y;
-
 
     public void setX(int x) {
         this.x = x;
