@@ -1,7 +1,7 @@
 package com.example.syntax_terror;
 
 public class Dodecagon extends Shape {
-    int radius;
+    private int radius;
 
     public Dodecagon(int radius) {
         this.radius = radius;
