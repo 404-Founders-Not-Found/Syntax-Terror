@@ -1,4 +1,13 @@
 <h1>Syntax- Terror</h1> 
 301 Group Project:
-CCID: Mkkim1
-CCID: ihmorris
+<h4>CCID: 
+<ul>
+      <li>Mkkim1</li>
+      <li>cblackdu</li>
+      <li>omelchuk</li>
+      <li>reece</li>
+      <li>ihmorris</li>
+</ul>
+      
+
+</h4>
