@@ -1,4 +1,5 @@
 package com.example.syntax_terror;
+
 public abstract class Shape {
     private int x;
     private int y;
@@ -18,4 +19,5 @@ public abstract class Shape {
     public int getY() {
         return y;
     }
+
 }
