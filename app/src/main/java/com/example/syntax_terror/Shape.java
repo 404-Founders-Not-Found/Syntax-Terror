@@ -2,11 +2,10 @@ package com.example.syntax_terror;
 
 public abstract class Shape {
 
-    private String color = "blue";
     private int x;
     private int y;
 
-    private String color = "Rainbow";
+    private String color = "red";
 
     public void setX(int x) {
         this.x = x;
