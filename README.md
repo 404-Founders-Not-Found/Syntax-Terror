@@ -2,7 +2,7 @@
 301 Group Project:
 <h4>CCID: 
 <ul>
-      <li>Mkkim1</li>
+      <li>mkkim1</li>
       <li>cblackdu</li>
       <li>omelchuk</li>
       <li>djschroe</li>
