@@ -1,9 +1,6 @@
 package com.example.syntax_terror;
 
 public abstract class Shape {
-
-    private String color = "Red";
-
     private int x;
     private int y;
 
