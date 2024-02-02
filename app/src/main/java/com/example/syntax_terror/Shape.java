@@ -1,8 +1,4 @@
 package com.example.syntax_terror;
-<<<<<<< HEAD
-
-=======
->>>>>>> 10e8f37 (Added Color String to Shape)
 public abstract class Shape {
 
     private int x;
